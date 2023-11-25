@@ -10,7 +10,8 @@ import matplotlib.pyplot as plt
 import plotly.figure_factory as ff
 
 # Load your machine learning model and data
-model = pickle.load(open('model.pkl', 'rb'))
+with open('model.pkl', 'rb') as file:
+    model = pickle.load(file)
 df = pd.read_csv("crop_prediction_model_one.csv")
 
 # Load your machine learning model and data
