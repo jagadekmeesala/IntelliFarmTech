@@ -8,7 +8,7 @@ IntelliFarm Tech is a precision farming solution designed to revolutionize moder
 ![Alt text](streamlit/project_outputs/Homepage.PNG)
 
 ## Data Info Page of the Project
-![Alt text](project_outputs/Datainfopage.PNG)
+![Alt text](streamlit/project_outputs/Datainfopage.PNG)
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ IntelliFarm Tech is a precision farming solution designed to revolutionize moder
 Agricultural communities face challenges such as suboptimal crop yields, diminished returns on investment, and a lack of informed decisions for veteran farmers regarding suitable crops.
 
 ## Visualize The Crop
-![Alt text](project_outputs/Visualizecrop.PNG)
+![Alt text](streamlit/project_outputs/Visualizecrop.PNG)
 
 ## Aim and Objectives
 
@@ -46,7 +46,7 @@ Agricultural communities face challenges such as suboptimal crop yields, diminis
 IntelliFarm Tech integrates Python and machine learning at the backend, with Streamlit serving as the GUI.
 
 ## Predicting The Crop
-![Alt text](project_outputs/Predictyourcrop.PNG)
+![Alt text](streamlit/project_outputs/Predictyourcrop.PNG)
 
 ## System Development Approach (Technology Used)
 
@@ -80,6 +80,6 @@ Validate model accuracy through testing data, deploy the system on Azure.
 
 ## Outcome Of The Predicted Soil/Crop In The Project
 
-![Alt text](project_outputs/outcome.PNG)
+![Alt text](streamlit/project_outputs/outcome.PNG)
 
 Thank you so much
