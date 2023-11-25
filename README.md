@@ -5,7 +5,7 @@
 IntelliFarm Tech is a precision farming solution designed to revolutionize modern agriculture by leveraging machine learning, Python, and Streamlit. The project aims to provide farmers with real-time, data-driven insights to enhance crop yield, optimize resource utilization, and foster sustainable farming practices.
 
 ## Home Page of the project
-![Alt text](project_outputs/Homepage.PNG)
+![Alt text](streamlit/project_outputs/Homepage.PNG)
 
 ## Data Info Page of the Project
 ![Alt text](project_outputs/Datainfopage.PNG)
